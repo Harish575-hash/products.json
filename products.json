@@ -42,18 +42,18 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg"
   },
   {
-    "id": 7,
-    "name": "Watermelon",
-    "price": 3.5,
-    "description": "Cool and juicy watermelon, perfect for summer refreshment.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Watermelon.jpg"
-  },
+  "id": 7,
+  "name": "Watermelon",
+  "price": 3.5,
+  "description": "Cool and juicy watermelon, perfect for summer refreshment.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Watermelon_cross_BNC.jpg"
+   },
   {
-    "id": 8,
-    "name": "Grapes",
-    "price": 2.0,
-    "description": "Seedless green grapes bursting with natural sweetness.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Table_grapes_on_white.jpg"
+  "id": 8,
+  "name": "Grapes",
+  "price": 2.0,
+  "description": "Seedless green grapes bursting with natural sweetness.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Table_grapes.jpg"
   },
   {
     "id": 9,
@@ -63,10 +63,10 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
   },
   {
-    "id": 10,
-    "name": "Papaya",
-    "price": 2.4,
-    "description": "Soft and sweet papaya filled with nutrients and tropical taste.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Papaya_cross_section_BNC.jpg"
+  "id": 10,
+  "name": "Papaya",
+  "price": 2.4,
+  "description": "Soft and sweet papaya filled with nutrients and tropical taste.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Papaya.jpg"
   }
 ]
