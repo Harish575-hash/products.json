@@ -4,69 +4,69 @@
     "name": "Apple",
     "price": 1.25,
     "description": "Fresh red apples packed with natural sweetness and fiber.",
-    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88c"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Red_Apple.jpg"
   },
   {
     "id": 2,
     "name": "Banana",
     "price": 0.85,
     "description": "Ripe yellow bananas — rich in potassium and energy.",
-    "image": "https://images.unsplash.com/photo-1574226516831-e1dff420e12e"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg"
   },
   {
     "id": 3,
     "name": "Orange",
     "price": 1.5,
     "description": "Juicy oranges full of vitamin C and refreshing citrus flavor.",
-    "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
   },
   {
     "id": 4,
     "name": "Mango",
     "price": 2.1,
     "description": "Golden mangoes that are smooth, sweet, and tropical.",
-    "image": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hapus_Mango.jpg"
   },
   {
     "id": 5,
     "name": "Strawberry",
     "price": 1.9,
     "description": "Bright red strawberries — juicy and perfect for desserts.",
-    "image": "https://images.unsplash.com/photo-1565958011705-44e2117729f8"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
   },
   {
     "id": 6,
     "name": "Pineapple",
     "price": 2.3,
     "description": "Tropical pineapple with tangy-sweet flavor and rich aroma.",
-    "image": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pineapple_and_cross_section.jpg"
   },
   {
     "id": 7,
     "name": "Watermelon",
     "price": 3.5,
     "description": "Cool and juicy watermelon, perfect for summer refreshment.",
-    "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Watermelon_slices_BNC.jpg"
   },
   {
     "id": 8,
     "name": "Grapes",
     "price": 2.0,
     "description": "Seedless green grapes bursting with natural sweetness.",
-    "image": "https://images.unsplash.com/photo-1613145993481-1e5b7b1f9a8d"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Table_grapes_on_white.jpg"
   },
   {
     "id": 9,
     "name": "Kiwi",
     "price": 1.75,
     "description": "Tangy green kiwi fruit rich in vitamin C and antioxidants.",
-    "image": "https://images.unsplash.com/photo-1617196034796-73bf64a8a1eb"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
   },
   {
     "id": 10,
     "name": "Papaya",
     "price": 2.4,
     "description": "Soft and sweet papaya filled with nutrients and tropical taste.",
-    "image": "https://images.unsplash.com/photo-1590080875832-3ec4b3d9ef31"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Papaya_cross_section_BNC.jpg"
   }
 ]
